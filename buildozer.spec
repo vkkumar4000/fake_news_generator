@@ -1,10 +1,10 @@
 [app]
 # App name (what shows on Android)
-title = MyPythonApp
+title = fake_code_generator
 
 # Name of your main .py file (don’t include .py)
 # Example: if your file is main.py → write "main"
-source.main = main
+source.main = fake_code_generator
 
 # Package name (like com.example.myapp)
 package.name = mypythonapp
